@@ -1,6 +1,6 @@
-export const environment = {
-  production: true
-};
+export interface AdComponent {
+  data: any;
+}
 
 
 /*
